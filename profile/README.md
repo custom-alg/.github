@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-<!--
+Welcome to the **custom-alg** organization!
 
-**Here are some ideas to get you started:**
+🙋‍♀️ **About Us**: We are a community focused on building custom algorithms and solutions.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌈 **Get Involved**: Check out our repositories and feel free to contribute! We welcome pull requests and issue reports.
+
+👩‍💻 **Resources**: Browse our repositories to find projects you're interested in.
+
+🧙 **Connect**: Star our repositories and follow us to stay updated on our latest work!
